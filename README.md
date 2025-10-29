@@ -1,6 +1,5 @@
 ## Hi there! my name is Mayra Kauane 
 
-I'm a Student Systems Analysis and Development. I really like new challenges and using programming to solve them.
 
 <hr>
 
